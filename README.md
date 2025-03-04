@@ -48,7 +48,7 @@ QR Generator is a simple and efficient Python-based application that allows user
 
 7. **Access the application**:
 
-   Open your web browser and navigate to `http://127.0.0.1:8000/`.
+   Open your web browser and navigate to `http://127.0.0.1:8000/`
 
 ## Usage 🎯
 
@@ -80,7 +80,7 @@ Contributions are welcome! To contribute:
    git push origin feature/YourFeatureName
    ```
 
-5. **Open a Pull Request**.
+5. **Open a Pull Request**
 
 ## License 📝
 
