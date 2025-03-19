@@ -56,6 +56,7 @@ After Execute the server:
 
 - The script prompts you to enter the text or URL.
 - A QR code is generated and displayed.
+- You can scan the QR code and get the information.
 
 ## Contributing 🌍
 
